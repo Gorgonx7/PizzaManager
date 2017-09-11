@@ -1,0 +1,43 @@
+﻿<Window x:Class="ACW2.CompletedOrdersWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ACW2"
+        mc:Ignorable="d"
+        Title="CompletedOrdersWindow" SizeToContent="WidthAndHeight">
+    <StackPanel Orientation="Vertical">
+        <Label x:Name="SummaryOfCompletedOrdersLable" Content="Summary of Completed Orders" FontWeight="Bold" Margin="5"/>
+        <StackPanel Orientation="Horizontal">
+            <Label x:Name="TotalNoOrdersLable" Content="Total No. Orders" Margin="5"/>
+            <TextBox x:Name="TotalNumberOfOrdersTextbox" Height="24" Margin="5" Width="80"/>
+        </StackPanel>
+        <Label x:Name="NumberOfIngredientsUsedLable" Content="No. of each Ingredients used:" Margin="5,0,5,0" Padding="5,0,5,0"/>
+        <Label x:Name="IngredientsUsedTableKeyLable" Content="(Name, No. units consumed)" Margin="5,0,5,0" Padding="5,0,5,0" FontSize="9" FontStyle="Italic"/>
+        <ListBox x:Name="IngredientsUsedListbox" Height="120" Margin="5,0,5,5" MinWidth="180" SelectionChanged="IngredientsUsedListbox_SelectionChanged"/>
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
+            <Label x:Name="numberOfPizzasSold" Content="No. Pizzas Sold" Margin="5"/>
+            <TextBox x:Name="numberOfPizzasSoldTextBox" Height="24" Margin="5" Width="80"/>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
+            <Label x:Name="numberOfBurgersSoldLable" Content="No. Burgers Sold" Margin="5"/>
+            <TextBox x:Name="numberOfBurgersSoldTextbox" Height="24" Margin="5" Width="80"/>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
+            <Label x:Name="numberOfSundriesSoldLabel" Content="No. Sundries Sold" Margin="5"/>
+            <TextBox x:Name="NumberOfSundriesSoldTextbox" Height="24" Margin="5" Width="80"/>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
+            <Label x:Name="RevenueLable" Content="Revenue" Margin="5"/>
+            <TextBox x:Name="RevenueTextbox" Height="24" Margin="5" Width="80"/>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
+            <Label x:Name="IngredientCostlable" Content="Ingredient Cost" Margin="5"/>
+            <TextBox x:Name="IngredientCostTextbox" Height="24" Margin="5" Width="80"/>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
+            <Label x:Name="GrossProfitLabel" Content="Gross Profit" Margin="5"/>
+            <TextBox x:Name="GrossProfitTextbox" Height="24" Margin="5" Width="80"/>
+        </StackPanel>
+    </StackPanel>
+</Window>

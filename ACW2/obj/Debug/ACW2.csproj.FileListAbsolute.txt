@@ -1,0 +1,120 @@
+D:\Users\James Gordon\Desktop\programming 2 svb\ACW2\ACW2\bin\Debug\ACW2.exe.config
+D:\Users\James Gordon\Desktop\programming 2 svb\ACW2\ACW2\bin\Debug\inventory.txt
+D:\Users\James Gordon\Desktop\programming 2 svb\ACW2\ACW2\bin\Debug\menu.txt
+D:\Users\James Gordon\Desktop\programming 2 svb\ACW2\ACW2\bin\Debug\ACW2.exe
+D:\Users\James Gordon\Desktop\programming 2 svb\ACW2\ACW2\bin\Debug\ACW2.pdb
+D:\Users\James Gordon\Desktop\programming 2 svb\ACW2\ACW2\obj\Debug\ACW2.csprojResolveAssemblyReference.cache
+D:\Users\James Gordon\Desktop\programming 2 svb\ACW2\ACW2\obj\Debug\CompletedOrdersWindow.g.cs
+D:\Users\James Gordon\Desktop\programming 2 svb\ACW2\ACW2\obj\Debug\FoodMenuWindow.g.cs
+D:\Users\James Gordon\Desktop\programming 2 svb\ACW2\ACW2\obj\Debug\InventoryWindow.g.cs
+D:\Users\James Gordon\Desktop\programming 2 svb\ACW2\ACW2\obj\Debug\MainWindow.g.cs
+D:\Users\James Gordon\Desktop\programming 2 svb\ACW2\ACW2\obj\Debug\OrderWindow.g.cs
+D:\Users\James Gordon\Desktop\programming 2 svb\ACW2\ACW2\obj\Debug\App.g.cs
+D:\Users\James Gordon\Desktop\programming 2 svb\ACW2\ACW2\obj\Debug\ACW2_MarkupCompile.cache
+D:\Users\James Gordon\Desktop\programming 2 svb\ACW2\ACW2\obj\Debug\ACW2_MarkupCompile.lref
+D:\Users\James Gordon\Desktop\programming 2 svb\ACW2\ACW2\obj\Debug\CompletedOrdersWindow.baml
+D:\Users\James Gordon\Desktop\programming 2 svb\ACW2\ACW2\obj\Debug\FoodMenuWindow.baml
+D:\Users\James Gordon\Desktop\programming 2 svb\ACW2\ACW2\obj\Debug\InventoryWindow.baml
+D:\Users\James Gordon\Desktop\programming 2 svb\ACW2\ACW2\obj\Debug\MainWindow.baml
+D:\Users\James Gordon\Desktop\programming 2 svb\ACW2\ACW2\obj\Debug\OrderWindow.baml
+D:\Users\James Gordon\Desktop\programming 2 svb\ACW2\ACW2\obj\Debug\ACW2.g.resources
+D:\Users\James Gordon\Desktop\programming 2 svb\ACW2\ACW2\obj\Debug\ACW2.Properties.Resources.resources
+D:\Users\James Gordon\Desktop\programming 2 svb\ACW2\ACW2\obj\Debug\ACW2.csproj.GenerateResource.Cache
+D:\Users\James Gordon\Desktop\programming 2 svb\ACW2\ACW2\obj\Debug\ACW2.exe
+D:\Users\James Gordon\Desktop\programming 2 svb\ACW2\ACW2\obj\Debug\ACW2.pdb
+C:\Users\James Gordon\Desktop\programming 2 svn\ACW2\ACW2\bin\Debug\ACW2.exe.config
+C:\Users\James Gordon\Desktop\programming 2 svn\ACW2\ACW2\obj\Debug\ACW2.exe
+C:\Users\James Gordon\Desktop\programming 2 svn\ACW2\ACW2\obj\Debug\ACW2.pdb
+C:\Users\James Gordon\Desktop\programming 2 svn\ACW2\ACW2\bin\Debug\inventory.txt
+C:\Users\James Gordon\Desktop\programming 2 svn\ACW2\ACW2\bin\Debug\menu.txt
+C:\Users\James Gordon\Desktop\programming 2 svn\ACW2\ACW2\bin\Debug\ACW2.exe
+C:\Users\James Gordon\Desktop\programming 2 svn\ACW2\ACW2\bin\Debug\ACW2.pdb
+C:\Users\James Gordon\Desktop\programming 2 svn\ACW2\ACW2\obj\Debug\ACW2.csprojResolveAssemblyReference.cache
+C:\Users\James Gordon\Desktop\programming 2 svn\ACW2\ACW2\obj\Debug\CompletedOrdersWindow.g.cs
+C:\Users\James Gordon\Desktop\programming 2 svn\ACW2\ACW2\obj\Debug\FoodMenuWindow.g.cs
+C:\Users\James Gordon\Desktop\programming 2 svn\ACW2\ACW2\obj\Debug\InventoryWindow.g.cs
+C:\Users\James Gordon\Desktop\programming 2 svn\ACW2\ACW2\obj\Debug\MainWindow.g.cs
+C:\Users\James Gordon\Desktop\programming 2 svn\ACW2\ACW2\obj\Debug\OrderWindow.g.cs
+C:\Users\James Gordon\Desktop\programming 2 svn\ACW2\ACW2\obj\Debug\App.g.cs
+C:\Users\James Gordon\Desktop\programming 2 svn\ACW2\ACW2\obj\Debug\ACW2_MarkupCompile.cache
+C:\Users\James Gordon\Desktop\programming 2 svn\ACW2\ACW2\obj\Debug\ACW2_MarkupCompile.lref
+C:\Users\James Gordon\Desktop\programming 2 svn\ACW2\ACW2\obj\Debug\CompletedOrdersWindow.baml
+C:\Users\James Gordon\Desktop\programming 2 svn\ACW2\ACW2\obj\Debug\FoodMenuWindow.baml
+C:\Users\James Gordon\Desktop\programming 2 svn\ACW2\ACW2\obj\Debug\InventoryWindow.baml
+C:\Users\James Gordon\Desktop\programming 2 svn\ACW2\ACW2\obj\Debug\MainWindow.baml
+C:\Users\James Gordon\Desktop\programming 2 svn\ACW2\ACW2\obj\Debug\OrderWindow.baml
+C:\Users\James Gordon\Desktop\programming 2 svn\ACW2\ACW2\obj\Debug\ACW2.g.resources
+C:\Users\James Gordon\Desktop\programming 2 svn\ACW2\ACW2\obj\Debug\ACW2.Properties.Resources.resources
+C:\Users\James Gordon\Desktop\programming 2 svn\ACW2\ACW2\obj\Debug\ACW2.csproj.GenerateResource.Cache
+C:\Users\James Gordon\Desktop\ACWTestFolder\ACW2\bin\Debug\ACW2.exe.config
+C:\Users\James Gordon\Desktop\ACWTestFolder\ACW2\obj\Debug\ACW2.exe
+C:\Users\James Gordon\Desktop\ACWTestFolder\ACW2\obj\Debug\ACW2.pdb
+C:\Users\James Gordon\Desktop\ACWTestFolder\ACW2\bin\Debug\inventory.txt
+C:\Users\James Gordon\Desktop\ACWTestFolder\ACW2\bin\Debug\menu.txt
+C:\Users\James Gordon\Desktop\ACWTestFolder\ACW2\bin\Debug\ACW2.exe
+C:\Users\James Gordon\Desktop\ACWTestFolder\ACW2\bin\Debug\ACW2.pdb
+C:\Users\James Gordon\Desktop\ACWTestFolder\ACW2\obj\Debug\ACW2.csprojResolveAssemblyReference.cache
+C:\Users\James Gordon\Desktop\ACWTestFolder\ACW2\obj\Debug\CompletedOrdersWindow.g.cs
+C:\Users\James Gordon\Desktop\ACWTestFolder\ACW2\obj\Debug\FoodMenuWindow.g.cs
+C:\Users\James Gordon\Desktop\ACWTestFolder\ACW2\obj\Debug\InventoryWindow.g.cs
+C:\Users\James Gordon\Desktop\ACWTestFolder\ACW2\obj\Debug\MainWindow.g.cs
+C:\Users\James Gordon\Desktop\ACWTestFolder\ACW2\obj\Debug\OrderWindow.g.cs
+C:\Users\James Gordon\Desktop\ACWTestFolder\ACW2\obj\Debug\App.g.cs
+C:\Users\James Gordon\Desktop\ACWTestFolder\ACW2\obj\Debug\ACW2_MarkupCompile.cache
+C:\Users\James Gordon\Desktop\ACWTestFolder\ACW2\obj\Debug\ACW2_MarkupCompile.lref
+C:\Users\James Gordon\Desktop\ACWTestFolder\ACW2\obj\Debug\CompletedOrdersWindow.baml
+C:\Users\James Gordon\Desktop\ACWTestFolder\ACW2\obj\Debug\FoodMenuWindow.baml
+C:\Users\James Gordon\Desktop\ACWTestFolder\ACW2\obj\Debug\InventoryWindow.baml
+C:\Users\James Gordon\Desktop\ACWTestFolder\ACW2\obj\Debug\MainWindow.baml
+C:\Users\James Gordon\Desktop\ACWTestFolder\ACW2\obj\Debug\OrderWindow.baml
+C:\Users\James Gordon\Desktop\ACWTestFolder\ACW2\obj\Debug\ACW2.g.resources
+C:\Users\James Gordon\Desktop\ACWTestFolder\ACW2\obj\Debug\ACW2.Properties.Resources.resources
+C:\Users\James Gordon\Desktop\ACWTestFolder\ACW2\obj\Debug\ACW2.csproj.GenerateResource.Cache
+C:\Users\James Gordon\Desktop\acw\ACW2\bin\Debug\ACW2.exe.config
+C:\Users\James Gordon\Desktop\acw\ACW2\obj\Debug\ACW2.exe
+C:\Users\James Gordon\Desktop\acw\ACW2\obj\Debug\ACW2.pdb
+C:\Users\James Gordon\Desktop\acw\ACW2\bin\Debug\ACW2.exe
+C:\Users\James Gordon\Desktop\acw\ACW2\bin\Debug\ACW2.pdb
+C:\Users\James Gordon\Desktop\acw\ACW2\obj\Debug\ACW2.csprojResolveAssemblyReference.cache
+C:\Users\James Gordon\Desktop\acw\ACW2\obj\Debug\CompletedOrdersWindow.g.cs
+C:\Users\James Gordon\Desktop\acw\ACW2\obj\Debug\FoodMenuWindow.g.cs
+C:\Users\James Gordon\Desktop\acw\ACW2\obj\Debug\InventoryWindow.g.cs
+C:\Users\James Gordon\Desktop\acw\ACW2\obj\Debug\MainWindow.g.cs
+C:\Users\James Gordon\Desktop\acw\ACW2\obj\Debug\OrderWindow.g.cs
+C:\Users\James Gordon\Desktop\acw\ACW2\obj\Debug\App.g.cs
+C:\Users\James Gordon\Desktop\acw\ACW2\obj\Debug\ACW2_MarkupCompile.cache
+C:\Users\James Gordon\Desktop\acw\ACW2\obj\Debug\ACW2_MarkupCompile.lref
+C:\Users\James Gordon\Desktop\acw\ACW2\obj\Debug\CompletedOrdersWindow.baml
+C:\Users\James Gordon\Desktop\acw\ACW2\obj\Debug\FoodMenuWindow.baml
+C:\Users\James Gordon\Desktop\acw\ACW2\obj\Debug\InventoryWindow.baml
+C:\Users\James Gordon\Desktop\acw\ACW2\obj\Debug\MainWindow.baml
+C:\Users\James Gordon\Desktop\acw\ACW2\obj\Debug\OrderWindow.baml
+C:\Users\James Gordon\Desktop\acw\ACW2\obj\Debug\ACW2.g.resources
+C:\Users\James Gordon\Desktop\acw\ACW2\obj\Debug\ACW2.Properties.Resources.resources
+C:\Users\James Gordon\Desktop\acw\ACW2\obj\Debug\ACW2.csproj.GenerateResource.Cache
+C:\Users\James Gordon\Desktop\acw\ACW2\bin\Debug\inventory.txt
+C:\Users\James Gordon\Desktop\acw\ACW2\bin\Debug\menu.txt
+D:\Users\James Gordon\Desktop\529548\ACW2\ACW2\bin\Debug\ACW2.exe.config
+D:\Users\James Gordon\Desktop\529548\ACW2\ACW2\obj\Debug\ACW2.exe
+D:\Users\James Gordon\Desktop\529548\ACW2\ACW2\obj\Debug\ACW2.pdb
+D:\Users\James Gordon\Desktop\529548\ACW2\ACW2\bin\Debug\inventory.txt
+D:\Users\James Gordon\Desktop\529548\ACW2\ACW2\bin\Debug\menu.txt
+D:\Users\James Gordon\Desktop\529548\ACW2\ACW2\bin\Debug\ACW2.exe
+D:\Users\James Gordon\Desktop\529548\ACW2\ACW2\bin\Debug\ACW2.pdb
+D:\Users\James Gordon\Desktop\529548\ACW2\ACW2\obj\Debug\ACW2.csprojResolveAssemblyReference.cache
+D:\Users\James Gordon\Desktop\529548\ACW2\ACW2\obj\Debug\CompletedOrdersWindow.g.cs
+D:\Users\James Gordon\Desktop\529548\ACW2\ACW2\obj\Debug\FoodMenuWindow.g.cs
+D:\Users\James Gordon\Desktop\529548\ACW2\ACW2\obj\Debug\InventoryWindow.g.cs
+D:\Users\James Gordon\Desktop\529548\ACW2\ACW2\obj\Debug\MainWindow.g.cs
+D:\Users\James Gordon\Desktop\529548\ACW2\ACW2\obj\Debug\OrderWindow.g.cs
+D:\Users\James Gordon\Desktop\529548\ACW2\ACW2\obj\Debug\App.g.cs
+D:\Users\James Gordon\Desktop\529548\ACW2\ACW2\obj\Debug\ACW2_MarkupCompile.cache
+D:\Users\James Gordon\Desktop\529548\ACW2\ACW2\obj\Debug\ACW2_MarkupCompile.lref
+D:\Users\James Gordon\Desktop\529548\ACW2\ACW2\obj\Debug\CompletedOrdersWindow.baml
+D:\Users\James Gordon\Desktop\529548\ACW2\ACW2\obj\Debug\FoodMenuWindow.baml
+D:\Users\James Gordon\Desktop\529548\ACW2\ACW2\obj\Debug\InventoryWindow.baml
+D:\Users\James Gordon\Desktop\529548\ACW2\ACW2\obj\Debug\MainWindow.baml
+D:\Users\James Gordon\Desktop\529548\ACW2\ACW2\obj\Debug\OrderWindow.baml
+D:\Users\James Gordon\Desktop\529548\ACW2\ACW2\obj\Debug\ACW2.g.resources
+D:\Users\James Gordon\Desktop\529548\ACW2\ACW2\obj\Debug\ACW2.Properties.Resources.resources
+D:\Users\James Gordon\Desktop\529548\ACW2\ACW2\obj\Debug\ACW2.csproj.GenerateResource.Cache
