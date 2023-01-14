@@ -1,0 +1,50 @@
+﻿<Window x:Class="ACW2.FoodMenuWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ACW2"
+        mc:Ignorable="d"
+        Title="FoodMenuWindow" SizeToContent="WidthAndHeight">
+    <StackPanel Orientation="Horizontal">
+        <StackPanel Orientation="Vertical" VerticalAlignment="Bottom">
+            <Label x:Name="FoodItemLable" Content="Food Item" HorizontalAlignment="Left" Margin="5" VerticalAlignment="Top" FontSize="20"/>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
+                <Label x:Name="ItemCategorylabel" Content="Item Category" Margin="5"/>
+                <ComboBox x:Name="ItemCategoryComboBox" Margin="5" Width="120" SelectionChanged="ItemCategoryComboBox_SelectionChanged"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
+                <Label x:Name="ItemSizeLable" Content="Item Size" Margin="5"/>
+                <ComboBox x:Name="ItemSizeComboBox" Margin="5" Width="120" SelectedValue="All" SelectionChanged="ItemSizeComboBox_SelectionChanged"/>
+            </StackPanel>
+            <StackPanel Orientation="Vertical" HorizontalAlignment="Right" >
+                <Label x:Name="CatagoryTableKeyLable" Content="Category, Name, Size, Price (£)" Margin="0,0,0,0" FontStyle="Italic" FontSize="9"/>
+                <ListBox x:Name="MenuListBox" Height="130" Margin="5" MinWidth="200" SelectionChanged="MenuListBox_SelectionChanged"/>
+            </StackPanel>
+        </StackPanel>
+        <StackPanel Orientation="Vertical" VerticalAlignment="Bottom">
+            <Label x:Name="IngredientsLable" Content="Ingredients" Margin="5" VerticalAlignment="Top" FontSize="16"/>
+            <Label x:Name="IngredientsTableKeyLable" Content="Name, Portion (Units), Portion Cost (£)" HorizontalAlignment="Left" Margin="0" VerticalAlignment="Top" FontStyle="Italic" FontSize="9"/>
+            <ListBox x:Name="IngredientsListBox" Height="130" Margin="5" MinWidth="200" SelectionChanged="IngredientsListBox_SelectionChanged"/>
+        </StackPanel>
+        <StackPanel Orientation="Vertical" VerticalAlignment="Bottom">
+            <Label x:Name="SummaryLable" Content="Summary" Margin="5" FontSize="16"/>
+            <Border BorderBrush="Gray" BorderThickness="1" Height="130" Margin="5">
+                <StackPanel VerticalAlignment="Bottom">
+                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
+                        <Label x:Name="ItemPriceLable" Content="Item Price" Margin="5"/>
+                        <TextBox x:Name="ItemPriceTextBox" Height="24" Margin="5" TextWrapping="Wrap" Text="£" Width="76"/>
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
+                        <Label x:Name="IngredientCostLable" Content="Total Ingredient Cost" Margin="5"/>
+                        <TextBox x:Name="IngredientCostTextbox" Height="24" Margin="5" TextWrapping="Wrap" Text="£" Width="76"/>
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
+                        <Label x:Name="GrossProfitLable" Content="Gross Profit" Margin="5"/>
+                        <TextBox x:Name="GrossProfitTextbox" Height="24" Margin="5" TextWrapping="Wrap" Text="£" Width="76"/>
+                    </StackPanel>
+                </StackPanel>
+            </Border>
+        </StackPanel>
+    </StackPanel>
+</Window>

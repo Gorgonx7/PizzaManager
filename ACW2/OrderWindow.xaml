@@ -1,0 +1,95 @@
+﻿<Window x:Class="ACW2.OrderWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ACW2"
+        mc:Ignorable="d"
+        Title="OrderWindow" SizeToContent="WidthAndHeight"
+        Closing="Window_Closing">
+
+    <StackPanel Orientation="Vertical">
+        <Label x:Name="CreateOrderLable" Content="Create Order" HorizontalAlignment="Left" Margin="5" VerticalAlignment="Top" FontSize="24"/>
+        <StackPanel Orientation="Horizontal" VerticalAlignment="Top">
+            <StackPanel Orientation="Vertical" VerticalAlignment="Top">
+                <Label x:Name="OrderSummaryLable" Content="Order Summary" Margin="5" FontSize="16"/>
+                <ListBox x:Name="OrderSummarylistBox" Height="160" Margin="5" MinWidth="180" SelectionChanged="OrderSummarylistBox_SelectionChanged"/>
+                <Button x:Name="RemoveItemButton" Content="Remove Item" Margin="5"  Width="75" Click="RemoveItemButton_Click"/>
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
+                    <Label x:Name="TotalIngredientCostLable" Content="Ingredient Cost (£)" Margin="5" VerticalAlignment="Top"/>
+                    <TextBox x:Name="TotalIngredientCostTextBox" Height="24" Margin="5" TextWrapping="Wrap" Text="£" Width="80"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
+                    <Label x:Name="NetProfitLable" Content="Net Profit (£)" Margin="5"/>
+                    <TextBox x:Name="NetProfitTextBox" Height="24" Margin="5" TextWrapping="Wrap" Text="£" Width="80"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
+                    <Label x:Name="TotalPriceLable" Content="Total Price(£)"  Margin="5"/>
+                    <TextBox x:Name="TotalPriceTextbox" Height="24" Margin="5" TextWrapping="Wrap" Text="£" Width="80"/>
+                </StackPanel>
+                <Button x:Name="CompleteOrderButton" Content="Complete Order" Margin="5" Click="CompleteOrderButton_Click"/>
+            </StackPanel>
+            <StackPanel Orientation="Vertical" VerticalAlignment="Top">
+                <Label x:Name="PizzaLable" Content="1. Pizzas" Margin="5" FontSize="16"/>
+                <Border BorderBrush="Gray" BorderThickness="1" Margin="5">
+                    <StackPanel Orientation="Vertical">
+                        <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
+                            <Label x:Name="label1" Content="Pizza" Margin="5" />
+                            <ComboBox x:Name="PizzacomboBox" Margin="5" Width="120" SelectionChanged="PizzacomboBox_SelectionChanged"/>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
+                            <Label x:Name="label" Content="Size" Margin="5"/>
+                            <ComboBox x:Name="PizzaSizecomboBox1" Margin="5" Width="120" SelectionChanged="PizzaSizecomboBox1_SelectionChanged"/>
+                        </StackPanel>
+                        <CheckBox x:Name="hasStuffedCrust" Content="Stuffed Crust" Margin="5" HorizontalAlignment="Center" Click="hasStuffedCrust_Checked"/>
+                        <Label x:Name="ExtraToppingsLable" Content="Extra Toppings" Margin="5,5,5,0" HorizontalAlignment="Center"/>
+                        <ListBox x:Name="ExtraToppingList" Height="120" Margin="5,0,5,5" MinWidth="140" HorizontalAlignment="Center" SelectionChanged="ExtraToppingList_SelectionChanged"/>
+                        <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
+                            <Label x:Name="PizzaPriceLable" Content="Price (£)" Margin="5"/>
+                            <TextBox x:Name="PizzaPriceTextBox" Height="24" Margin="5" TextWrapping="Wrap" Text="£" VerticalAlignment="Top" Width="80"/>
+                        </StackPanel>
+                        <Button x:Name="PizzaAddToOrder" Content="Add to Order" Margin="5" Width="80" HorizontalAlignment="Right" Click="PizzaAddToOrder_Click"/>
+                    </StackPanel>
+                </Border>
+            </StackPanel>
+            <StackPanel Orientation="Vertical" VerticalAlignment="Top">
+                <Label x:Name="BurgerTitleLable" Content="2. Burgers" Margin="5" FontSize="16"/>
+                <Border BorderBrush="Gray" BorderThickness="1" Margin="5">
+                    <StackPanel Orientation="Vertical">
+                        <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
+                            <Label x:Name="label2" Content="Burger" HorizontalAlignment="Left" Margin="5" VerticalAlignment="Top"/>
+                            <ComboBox x:Name="BurgercomboBox" HorizontalAlignment="Left" Margin="5" VerticalAlignment="Top" Width="107" SelectionChanged="BurgercomboBox_SelectionChanged"/>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
+                            <Label x:Name="label3" Content="Size" Margin="5" VerticalAlignment="Center"/>
+                            <RadioButton x:Name="QuaterRadioButton" Content="1/4lb" HorizontalAlignment="Left" Margin="5" VerticalAlignment="Center" Click="QuaterRadioButton_Click"/>
+                            <RadioButton x:Name="HalfRadioButton" Content="1/2lb" HorizontalAlignment="Left" Margin="5" VerticalAlignment="Center" Click="HalfRadioButton_Click"/>
+                        </StackPanel>
+                        <StackPanel Orientation="Vertical" HorizontalAlignment="Center">
+                            <CheckBox x:Name="hasSalad" Content="Salad"  Margin="2" Click="hasSalad_Click"/>
+                            <CheckBox x:Name="hasCheese" Content="Cheese" Margin="2" Click="hasCheese_Click"/>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
+                            <Label x:Name="BurgerPriceLable" Content="Price (£)" HorizontalAlignment="Left" Margin="5" />
+                            <TextBox x:Name="BurgerPriceTextbox" Height="24" Margin="5" TextWrapping="Wrap" Text="£" Width="80"/>
+                        </StackPanel>
+                        <Button x:Name="BurgerAddToOrder" Content="Add to Order" Margin="5" Width="80" HorizontalAlignment="Right" Click="BurgerAddToOrder_Click"/>
+                    </StackPanel>
+                </Border>
+            </StackPanel>
+            <StackPanel Orientation="Vertical" VerticalAlignment="Top">
+                <Label x:Name="SundriesLable" Content="3. Sundries" Margin="5" FontSize="16"/>
+                <Border BorderBrush="Gray" BorderThickness="1" Margin="5">
+                    <StackPanel Orientation="Vertical">
+                        <ListBox x:Name="SundriesListBox" Height="120" MinWidth="140" Margin="5" SelectionChanged="SundriesListBox_SelectionChanged"/>
+                        <StackPanel Orientation="Horizontal">
+                            <Label x:Name="SundriesPriceLablel" Content="Price (£)" Margin="5" VerticalAlignment="Top"/>
+                            <TextBox x:Name="SundriesPriceTextbox" Height="24" Margin="5" TextWrapping="Wrap" Text="£" Width="80"/>
+                        </StackPanel>
+                        <Button x:Name="SundriesAddToOrderButton" Content="Add to Order" HorizontalAlignment="Right" Margin="5" Width="80" Click="SundriesAddToOrderButton_Click"/>
+                    </StackPanel>
+                </Border>
+            </StackPanel>
+        </StackPanel>
+    </StackPanel>
+</Window>
